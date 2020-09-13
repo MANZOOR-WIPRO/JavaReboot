@@ -7,4 +7,9 @@ public class StringHandling {
 System.out.println("Hi");
 	}
 
+	public Object helloWorld() {
+		// TODO Auto-generated method stub
+		return "Hello World";
+	}
+
 }
